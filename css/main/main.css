@@ -1,0 +1,35 @@
+.center {
+
+    background-color: rgb(35, 17, 83);
+    width: 100%;
+
+}
+
+.main {
+
+    padding: 2px;
+
+}
+
+.audios {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding: 8px;
+
+}
+
+.tapes {
+
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    border-radius: 14px;
+    background-color: pink;
+
+}

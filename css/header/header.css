@@ -1,0 +1,40 @@
+.top {
+
+    background-color: rgb(39, 18, 99);
+    width: 100%;
+
+}
+
+.header {
+
+    padding: 10px;
+
+}
+
+.nav {
+
+    background-color: transparent;
+
+}
+
+.barTop {
+
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+
+}
+
+.fa-regular {
+
+    height: 26px;
+
+}
+
+.searchBar {
+
+    padding: 4px;
+
+}
